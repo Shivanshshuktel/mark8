@@ -1,7 +1,7 @@
 import "./styles.css";
 import { useState } from "react";
 
-var animalDictionary = {
+var animalDictionary =  {
   "": "",
   "🐒": "Monkey",
   "🦍": "Gorilla",
